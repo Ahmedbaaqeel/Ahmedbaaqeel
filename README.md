@@ -8,4 +8,4 @@ Skills: Java, Python, Machine learning.
 - 📫 How to reach me: My linked in page  
 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)' alt='github' height='40'>](https://github.com/Ahmedbaaqeel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-baaqeel-3101b51ab//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahmedbaaqeel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-baaqeel-3101b51ab//)  
