@@ -1,5 +1,5 @@
 ### Hi there 👋, Ahmed Baaqeel
-#### a CS student and a programmer. 
+
 I'm Ahmed from Saudi Arabia, and I'm a CS major student at KFUPM.  I'm currently on my senior level courses and about to finish my university journey. I like to learn new languages and explore new stuff. Currently interested in Python and web development.
 
 Skills: Java, Python, Machine learning.
